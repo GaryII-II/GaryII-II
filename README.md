@@ -1,5 +1,5 @@
-- I am Igor Ivanov (nickname is Gary), R&D Project Manager and Group Leader working for a wide range of projects from a small prototypes of mobile applications to enterprise level cloud solutions,
-  often integrated with many kinds of devices or electronic components
+- I am Igor Ivanov (nickname is Gary), R&D Product Owner, Architect, QA Leading Engineer with a rich test automation working for a wide range of projects 
+  from a small prototypes of mobile applications to enterprise level cloud solutions, often integrated with many kinds of devices or electronic components
 - I am interested in a software development, software engineering and automation; working in a multi-cultural, distributed environment.
 - I like software services integrated with devices, UX design and prefer a high traceability  of the development and test processes
 - Having a long time background in a software development, nowadays I am learning Data Science and Machine Learning
